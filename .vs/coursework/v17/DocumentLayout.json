@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:user_control\\weekly_timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|e:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:user_control\\weekly_timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\all_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:user_control\\admin\\all_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\class_access\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:class_access\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\add_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:user_control\\admin\\add_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\Class\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF981A8-E651-4917-8A27-52E8B2C62A27}|coursework.csproj|solutionrelative:Class\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weekly_timetable.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs",
+              "RelativeDocumentMoniker": "user_control\\weekly_timetable.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs [Design]",
+              "RelativeToolTip": "user_control\\weekly_timetable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:24:17.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "weekly_timetable.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs",
+              "RelativeDocumentMoniker": "user_control\\weekly_timetable.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\weekly_timetable.cs",
+              "RelativeToolTip": "user_control\\weekly_timetable.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:26:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All_admin.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\All_admin.cs",
+              "RelativeDocumentMoniker": "user_control\\admin\\All_admin.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\All_admin.cs",
+              "RelativeToolTip": "user_control\\admin\\All_admin.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:49:27.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\class_access\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "class_access\\AdminAccess.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\class_access\\AdminAccess.cs",
+              "RelativeToolTip": "class_access\\AdminAccess.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAqwJEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:41:06.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\form\\MainForm.cs",
+              "RelativeToolTip": "form\\MainForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA8wCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:38:39.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add_admin.cs [Design]",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\Add_admin.cs",
+              "RelativeDocumentMoniker": "user_control\\admin\\Add_admin.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\user_control\\admin\\Add_admin.cs [Design]",
+              "RelativeToolTip": "user_control\\admin\\Add_admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:16:50.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\Class\\Admin.cs",
+              "RelativeDocumentMoniker": "Class\\Admin.cs",
+              "ToolTip": "E:\\hoc tap\\ki5\\comp1551-coursework\\coursework\\Class\\Admin.cs",
+              "RelativeToolTip": "Class\\Admin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDUAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:08:43.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
